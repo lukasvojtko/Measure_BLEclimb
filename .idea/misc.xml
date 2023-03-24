@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/3mans/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.20018115942028986" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.194" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/drawable/custome_progress_bg.xml" value="0.2005" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.194" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/drawable/vertical_progress_bar.xml" value="0.2775" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/layout/activity_ble_data_receiver.xml" value="0.25" />
+        <entry key="..\:/Users/3mans/Desktop/project_/graf_/Android_-_App_Samples-main/BLE_Sample_app/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
